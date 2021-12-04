@@ -1,0 +1,65 @@
+2021-12-04 15:12:783 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-12-04 15:12:94 INFO  HomePage :33 - Clicking on Allow Cookie button [[ChromeDriver: chrome on WINDOWS (bccc6c0d44385a28de2cd31131809456)] -> id: CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll]
+2021-12-04 15:12:884 INFO  HomePage :28 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (bccc6c0d44385a28de2cd31131809456)] -> partial link text: Sign]
+2021-12-04 15:12:889 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-12-04 15:12:594 INFO  HomePage :33 - Clicking on Allow Cookie button [[ChromeDriver: chrome on WINDOWS (434d2ae6cb53f618697c953642f5471c)] -> id: CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll]
+2021-12-04 15:12:612 INFO  HomePage :28 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (434d2ae6cb53f618697c953642f5471c)] -> partial link text: Sign]
+2021-12-04 15:12:543 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-12-04 15:12:815 INFO  HomePage :33 - Clicking on Allow Cookie button [[ChromeDriver: chrome on WINDOWS (dadb57ef7392b86ce470b96b5fbddb80)] -> id: CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll]
+2021-12-04 15:12:113 INFO  HomePage :28 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (dadb57ef7392b86ce470b96b5fbddb80)] -> partial link text: Sign]
+2021-12-04 15:12:366 INFO  HomePage :27 - Enter email xyz12@gmail.comOn Email Field [[ChromeDriver: chrome on WINDOWS (dadb57ef7392b86ce470b96b5fbddb80)] -> xpath: //input[@id='Email']]
+2021-12-04 15:12:575 INFO  HomePage :32 - Enter password Acd123456@On Password Field [[ChromeDriver: chrome on WINDOWS (dadb57ef7392b86ce470b96b5fbddb80)] -> xpath: //input[@id='Password']]
+2021-12-04 15:12:986 INFO  HomePage :38 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (dadb57ef7392b86ce470b96b5fbddb80)] -> xpath: //button[@id='btnLogin']]
+2021-12-04 16:12:280 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-12-04 16:12:47 INFO  HomePage :33 - Clicking on Allow Cookie button [[ChromeDriver: chrome on WINDOWS (dd4ad469dffcbde68c83a2ccf2c2b537)] -> id: CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll]
+2021-12-04 16:12:988 INFO  HomePage :28 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (dd4ad469dffcbde68c83a2ccf2c2b537)] -> partial link text: Sign]
+2021-12-04 16:12:50 INFO  HomePage :28 - Getting Sign In To Continue Message [[ChromeDriver: chrome on WINDOWS (dd4ad469dffcbde68c83a2ccf2c2b537)] -> xpath: //b[contains(text(),'SIGN IN TO CONTINUE')]]
+2021-12-04 16:12:29 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-12-04 16:12:508 INFO  HomePage :33 - Clicking on Allow Cookie button [[ChromeDriver: chrome on WINDOWS (6906a330753af1ec88d9e5d871a02f6e)] -> id: CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll]
+2021-12-04 16:12:510 INFO  HomePage :28 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (6906a330753af1ec88d9e5d871a02f6e)] -> partial link text: Sign]
+2021-12-04 16:12:727 INFO  HomePage :36 - Enter email xyz12@gmail.comOn Email Field [[ChromeDriver: chrome on WINDOWS (6906a330753af1ec88d9e5d871a02f6e)] -> xpath: //input[@id='Email']]
+2021-12-04 16:12:913 INFO  HomePage :41 - Enter password Acd123456@On Password Field [[ChromeDriver: chrome on WINDOWS (6906a330753af1ec88d9e5d871a02f6e)] -> xpath: //input[@id='Password']]
+2021-12-04 16:12:195 INFO  HomePage :47 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (6906a330753af1ec88d9e5d871a02f6e)] -> xpath: //button[@id='btnLogin']]
+2021-12-04 16:12:426 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-12-04 16:12:548 INFO  HomePage :33 - Clicking on Allow Cookie button [[ChromeDriver: chrome on WINDOWS (c96ce7a3ddfc4580b8fc875db341ae7c)] -> id: CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll]
+2021-12-04 16:12:952 INFO  HomePage :28 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (c96ce7a3ddfc4580b8fc875db341ae7c)] -> partial link text: Sign]
+2021-12-04 16:12:582 INFO  HomePage :29 - Getting Sign In To Continue Message [[ChromeDriver: chrome on WINDOWS (c96ce7a3ddfc4580b8fc875db341ae7c)] -> xpath: //b[contains(text(),'SIGN IN TO CONTINUE')]]
+2021-12-04 16:12:668 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-12-04 16:12:196 INFO  HomePage :33 - Clicking on Allow Cookie button [[ChromeDriver: chrome on WINDOWS (6aab38f0c3da6f47c8fc8e0870969138)] -> id: CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll]
+2021-12-04 16:12:874 INFO  HomePage :28 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (6aab38f0c3da6f47c8fc8e0870969138)] -> partial link text: Sign]
+2021-12-04 16:12:79 INFO  HomePage :37 - Enter email xyz12@gmail.comOn Email Field [[ChromeDriver: chrome on WINDOWS (6aab38f0c3da6f47c8fc8e0870969138)] -> xpath: //input[@id='Email']]
+2021-12-04 16:12:266 INFO  HomePage :42 - Enter password Acd123456@On Password Field [[ChromeDriver: chrome on WINDOWS (6aab38f0c3da6f47c8fc8e0870969138)] -> xpath: //input[@id='Password']]
+2021-12-04 16:12:562 INFO  HomePage :48 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (6aab38f0c3da6f47c8fc8e0870969138)] -> xpath: //button[@id='btnLogin']]
+2021-12-04 16:12:201 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-12-04 16:12:999 INFO  HomePage :33 - Clicking on Allow Cookie button [[ChromeDriver: chrome on WINDOWS (21060a4f74f452b2d6a9932b629059ed)] -> id: CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll]
+2021-12-04 16:12:96 INFO  HomePage :28 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (21060a4f74f452b2d6a9932b629059ed)] -> partial link text: Sign]
+2021-12-04 16:12:142 INFO  HomePage :29 - Getting Sign In To Continue Message [[ChromeDriver: chrome on WINDOWS (21060a4f74f452b2d6a9932b629059ed)] -> xpath: //b[contains(text(),'SIGN IN TO CONTINUE')]]
+2021-12-04 16:12:71 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-12-04 16:12:575 INFO  HomePage :33 - Clicking on Allow Cookie button [[ChromeDriver: chrome on WINDOWS (332404d1f066ba83d6e09189a91d54cc)] -> id: CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll]
+2021-12-04 16:12:16 INFO  HomePage :28 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (332404d1f066ba83d6e09189a91d54cc)] -> partial link text: Sign]
+2021-12-04 16:12:233 INFO  HomePage :37 - Enter email xyz12@gmail.comOn Email Field [[ChromeDriver: chrome on WINDOWS (332404d1f066ba83d6e09189a91d54cc)] -> xpath: //input[@id='Email']]
+2021-12-04 16:12:443 INFO  HomePage :42 - Enter password Acd123456@On Password Field [[ChromeDriver: chrome on WINDOWS (332404d1f066ba83d6e09189a91d54cc)] -> xpath: //input[@id='Password']]
+2021-12-04 16:12:852 INFO  HomePage :48 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (332404d1f066ba83d6e09189a91d54cc)] -> xpath: //button[@id='btnLogin']]
+2021-12-04 16:12:558 INFO  HomePage :29 - Getting Sign In To Continue Message [[ChromeDriver: chrome on WINDOWS (332404d1f066ba83d6e09189a91d54cc)] -> xpath: //b[contains(text(),'SIGN IN TO CONTINUE')]]
+2021-12-04 16:12:621 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-12-04 16:12:875 INFO  HomePage :33 - Clicking on Allow Cookie button [[ChromeDriver: chrome on WINDOWS (2ff02e2420dd3d1a87a27105f7086c1f)] -> id: CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll]
+2021-12-04 16:12:242 INFO  HomePage :28 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (2ff02e2420dd3d1a87a27105f7086c1f)] -> partial link text: Sign]
+2021-12-04 16:12:307 INFO  HomePage :29 - Getting Sign In To Continue Message [[ChromeDriver: chrome on WINDOWS (2ff02e2420dd3d1a87a27105f7086c1f)] -> xpath: //b[contains(text(),'SIGN IN TO CONTINUE')]]
+2021-12-04 16:12:306 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-12-04 16:12:310 INFO  HomePage :33 - Clicking on Allow Cookie button [[ChromeDriver: chrome on WINDOWS (f3c95d6a1ba9d5698bbc0facb2dd113a)] -> id: CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll]
+2021-12-04 16:12:878 INFO  HomePage :28 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (f3c95d6a1ba9d5698bbc0facb2dd113a)] -> partial link text: Sign]
+2021-12-04 16:12:117 INFO  HomePage :37 - Enter email xyz12@gmail.comOn Email Field [[ChromeDriver: chrome on WINDOWS (f3c95d6a1ba9d5698bbc0facb2dd113a)] -> xpath: //input[@id='Email']]
+2021-12-04 16:12:295 INFO  HomePage :42 - Enter password Acd123456@On Password Field [[ChromeDriver: chrome on WINDOWS (f3c95d6a1ba9d5698bbc0facb2dd113a)] -> xpath: //input[@id='Password']]
+2021-12-04 16:12:659 INFO  HomePage :48 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (f3c95d6a1ba9d5698bbc0facb2dd113a)] -> xpath: //button[@id='btnLogin']]
+2021-12-04 16:12:695 INFO  HomePage :29 - Getting Sign In To Continue Message [[ChromeDriver: chrome on WINDOWS (f3c95d6a1ba9d5698bbc0facb2dd113a)] -> xpath: //b[contains(text(),'SIGN IN TO CONTINUE')]]
+2021-12-04 16:12:841 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-12-04 16:12:30 INFO  HomePage :33 - Clicking on Allow Cookie button [[ChromeDriver: chrome on WINDOWS (4738651e68343704f5f7821ffecb1ff1)] -> id: CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll]
+2021-12-04 16:12:479 INFO  HomePage :28 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (4738651e68343704f5f7821ffecb1ff1)] -> partial link text: Sign]
+2021-12-04 16:12:529 INFO  HomePage :29 - Getting Sign In To Continue Message [[ChromeDriver: chrome on WINDOWS (4738651e68343704f5f7821ffecb1ff1)] -> xpath: //b[contains(text(),'SIGN IN TO CONTINUE')]]
+2021-12-04 16:12:671 INFO  BrowserSelector :38 - Launching Chrome Browser
+2021-12-04 16:12:113 INFO  HomePage :33 - Clicking on Allow Cookie button [[ChromeDriver: chrome on WINDOWS (9cd81df52f0030b7cc3e7c41c3d95d8f)] -> id: CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll]
+2021-12-04 16:12:878 INFO  HomePage :28 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (9cd81df52f0030b7cc3e7c41c3d95d8f)] -> partial link text: Sign]
+2021-12-04 16:12:81 INFO  HomePage :37 - Enter email xyz12@gmail.comOn Email Field [[ChromeDriver: chrome on WINDOWS (9cd81df52f0030b7cc3e7c41c3d95d8f)] -> xpath: //input[@id='Email']]
+2021-12-04 16:12:274 INFO  HomePage :42 - Enter password Acd123456@On Password Field [[ChromeDriver: chrome on WINDOWS (9cd81df52f0030b7cc3e7c41c3d95d8f)] -> xpath: //input[@id='Password']]
+2021-12-04 16:12:623 INFO  HomePage :48 - Clicking on Sign In button [[ChromeDriver: chrome on WINDOWS (9cd81df52f0030b7cc3e7c41c3d95d8f)] -> xpath: //button[@id='btnLogin']]
+2021-12-04 16:12:754 INFO  HomePage :52 - Sign In Error Message [[ChromeDriver: chrome on WINDOWS (9cd81df52f0030b7cc3e7c41c3d95d8f)] -> xpath: //span[contains(text(),'Invalid username or password.')]]
